@@ -1,5 +1,5 @@
 /**
- * Prebid.js Header Tag — Prebid Stack Builder v3.0
+ * Prebid.js Header Tag — Prebid Stack Builder v3.1
  * Publisher
  * Aangemaakt: 30-9-2026
  *
