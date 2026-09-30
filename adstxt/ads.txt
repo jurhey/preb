@@ -1,0 +1,133 @@
+# ads.txt — gegenereerd door Prebid Stack Builder / AdTechTool
+# Laatste update: 2026-09-30
+# Meer informatie: https://iabtechlab.com/ads-txt/
+
+OWNERDOMAIN=website.nl
+
+MANAGERDOMAIN=adtechtool.nl
+
+# Index Exchange
+# Contact: support@indexexchange.com
+indexexchange.com, TODO_IX_SITE_ID, DIRECT, 50b1c356f2c5c8fc
+indexexchange.com, TODO_IX_OB_ID, DIRECT
+
+# OpenX
+# Contact: publishersupport@openx.com
+openx.com, TODO_OPENX_UNIT, DIRECT, 6a698e2ec38604c6
+
+# Adform
+# Contact: publishers@adform.com
+adform.com, TODO_ADFORM_MID, DIRECT
+adform.com, TODO_ADFORM_MID_2, DIRECT
+
+# AppNexus Xandr
+# Contact: publishers@xandr.com
+appnexus.com, 2837, DIRECT, f5ab79cb980f11d1
+xandr.com, 2837, DIRECT, f5ab79cb980f11d1
+
+# adtechtool.nl - Blok 6
+# Beschrijving
+
+# Google
+# Contact: publisher-policy-support@google.com
+google.com, TODO_ADSENSE_PUB_ID, DIRECT, f08c47fec0942fa0
+google.com, pub-9386789909068249, RESELLER, f08c47fec0942fa0
+
+# Index Exchange
+# Contact: support@indexexchange.com
+indexexchange.com, TODO_IX_SITE_ID, DIRECT, 50b1c356f2c5c8fc
+indexexchange.com, TODO_IX_OB_ID, DIRECT
+
+# Publisher NL - Amazon
+# Contact: amazon-publisher-services@amazon.com
+aps.amazon.com, TODO_AMAZON_PUBID, DIRECT
+rubiconproject.com, 18020, RESELLER, 0bfd66d529a55807
+pubmatic.com, 157150, RESELLER, 5d62403b186f2ace
+appnexus.com, 1356, RESELLER, f5ab79cb980f11d1
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1
+openx.com, 540191398, RESELLER, 6a698e2ec38604c6
+smaato.com, 1100044650, RESELLER, 07bcf65f187117b4
+contextweb.com, 562541, RESELLER, 89ff185a4c4e857c
+
+# Publisher NL - Amazon
+# Contact: amazon-publisher-services@amazon.com
+aps.amazon.com, TODO_AMAZON_PUBID, DIRECT
+rubiconproject.com, 18020, RESELLER, 0bfd66d529a55807
+pubmatic.com, 157150, RESELLER, 5d62403b186f2ace
+appnexus.com, 1356, RESELLER, f5ab79cb980f11d1
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1
+openx.com, 540191398, RESELLER, 6a698e2ec38604c6
+smaato.com, 1100044650, RESELLER, 07bcf65f187117b4
+contextweb.com, 562541, RESELLER, 89ff185a4c4e857c
+
+# Publisher NL - Amazon
+# Contact: amazon-publisher-services@amazon.com
+aps.amazon.com, TODO_AMAZON_PUBID, DIRECT
+rubiconproject.com, 18020, RESELLER, 0bfd66d529a55807
+pubmatic.com, 157150, RESELLER, 5d62403b186f2ace
+appnexus.com, 1356, RESELLER, f5ab79cb980f11d1
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1
+openx.com, 540191398, RESELLER, 6a698e2ec38604c6
+smaato.com, 1100044650, RESELLER, 07bcf65f187117b4
+contextweb.com, 562541, RESELLER, 89ff185a4c4e857c
+
+# AppNexus Xandr
+# Contact: publishers@xandr.com
+appnexus.com, 2837, DIRECT, f5ab79cb980f11d1
+xandr.com, 2837, DIRECT, f5ab79cb980f11d1
+
+# Criteo Prebid
+# Contact: publisher-support@criteo.com
+criteo.com, TODO_CRITEO_ID, DIRECT, 9fac4a4a87c2a44f
+themediagrid.com, HSQZEO, DIRECT, 9fac4a4a87c2a44f
+
+# Publisher NL - Amazon
+# Contact: amazon-publisher-services@amazon.com
+aps.amazon.com, TODO_AMAZON_PUBID, DIRECT
+rubiconproject.com, 18020, RESELLER, 0bfd66d529a55807
+pubmatic.com, 157150, RESELLER, 5d62403b186f2ace
+appnexus.com, 1356, RESELLER, f5ab79cb980f11d1
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1
+openx.com, 540191398, RESELLER, 6a698e2ec38604c6
+smaato.com, 1100044650, RESELLER, 07bcf65f187117b4
+contextweb.com, 562541, RESELLER, 89ff185a4c4e857c
+
+# AppNexus Xandr
+# Contact: publishers@xandr.com
+appnexus.com, 2837, DIRECT, f5ab79cb980f11d1
+xandr.com, 2837, DIRECT, f5ab79cb980f11d1
+
+# Criteo Prebid
+# Contact: publisher-support@criteo.com
+criteo.com, TODO_CRITEO_ID, DIRECT, 9fac4a4a87c2a44f
+themediagrid.com, HSQZEO, DIRECT, 9fac4a4a87c2a44f
+
+# Improve Digital
+# Contact: publishers@improvedigital.com
+improvedigital.com, TODO_IMPROVE_PUB_ID, DIRECT
+improvedigital.com, TODO_IMPROVE_PUB_ID_COMBO, DIRECT
+improvedigital.com, 1655, RESELLER
+
+# Pubmatic
+# Contact: publishersupport@pubmatic.com
+pubmatic.com, TODO_PUBMATIC_PUB_ID, DIRECT, 5d62403b186f2ace
+pubmatic.com, 159239, RESELLER, 5d62403b186f2ace
+
+# Equativ
+# Contact: support@equativ.com
+smartadserver.com, TODO_EQUATIV_NETWORK_ID, DIRECT, 060d053dcf45cbf3
+smartadserver.com, 1331, RESELLER, 060d053dcf45cbf3
+
+# Taboola
+# Contact: publisher-support@taboola.com
+taboola.com, TODO_TABOOLA_PUBLISHER_ID, DIRECT, c228e6794e811952
+pubmatic.com, 156307, RESELLER, 5d62403b186f2ace
+appnexus.com, 3364, RESELLER
+rubiconproject.com, 16698, RESELLER, 0bfd66d529a55807
+
+# Seedtag
+# Contact: publishers@seedtag.com
+seedtag.com, TODO_SEEDTAG_ID, DIRECT
+rubiconproject.com, 16114, RESELLER, 0bfd66d529a55807
+pubmatic.com, 157743, DIRECT, 5d62403b186f2ace
+improvedigital.com, 1680, DIRECT
