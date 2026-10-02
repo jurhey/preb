@@ -1,0 +1,12 @@
+{
+  "version": "11.38.0",
+  "modules": [
+    "consentManagementGpp",
+    "consentManagementTcf",
+    "gppControl_usnat",
+    "gppControl_usstates",
+    "gptPreAuction",
+    "storageControl",
+    "tcfControl"
+  ]
+}
