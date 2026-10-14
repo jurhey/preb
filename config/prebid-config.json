@@ -1,6 +1,6 @@
 {
-  "version": "3.1",
-  "ts": 1790802833941,
+  "version": "3.2",
+  "ts": 1791968041002,
   "catIab": {
     "IAB1": true,
     "IAB2": true,
@@ -204,6 +204,7 @@
     "gh-repo": "preb",
     "gh-branch": "main",
     "gh-commit-msg": "chore: update via Prebid Stack Builder",
+    "gh-cdn": "jsd-pinned",
     "gh-path-tag": "tags/headertag.js",
     "gh-path-ads": "adstxt/ads.txt",
     "gh-path-sellers": "sellersjson/sellers.json",
@@ -425,6 +426,13 @@
       "label": "Seedtag",
       "comment": "# Seedtag\n# Contact: publishers@seedtag.com",
       "lines": "seedtag.com, TODO_SEEDTAG_ID, DIRECT\nrubiconproject.com, 16114, RESELLER, 0bfd66d529a55807\npubmatic.com, 157743, DIRECT, 5d62403b186f2ace\nimprovedigital.com, 1680, DIRECT",
+      "enabled": true
+    },
+    {
+      "id": 22,
+      "label": "OpenX",
+      "comment": "# OpenX\n# Contact: publishersupport@openx.com",
+      "lines": "openx.com, TODO_OPENX_UNIT, DIRECT, 6a698e2ec38604c6",
       "enabled": true
     }
   ],
