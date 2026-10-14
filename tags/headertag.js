@@ -1,7 +1,7 @@
 /**
- * Prebid.js Header Tag — Prebid Stack Builder v3.1
+ * Prebid.js Header Tag — Prebid Stack Builder v3.2
  * Publisher
- * Aangemaakt: 30-9-2026
+ * Aangemaakt: 14-10-2026
  *
  * MODULES: consentManagementTcf, tcfControl, gptPreAuction, priceFloors, currency, nativeRendering, sizeMapping, video, debugging, sharedIdSystem
  * HOST: zie script host instelling
@@ -437,5 +437,5 @@ pbjs.que.push(function () {
   loadScript("https://securepubads.g.doubleclick.net/tag/js/gpt.js");
   // Prebid.js — custom build via github
   // Modules: consentManagementTcf, tcfControl, gptPreAuction, priceFloors, currency, nativeRendering, … (10 totaal)
-  loadScript("https://raw.githubusercontent.com/jurhey/preb/main/prebid.js");
+  loadScript("https://cdn.jsdelivr.net/gh/jurhey/preb@main/prebid.js");
 })();
