@@ -1,5 +1,5 @@
 # ads.txt — gegenereerd door Prebid Stack Builder / AdTechTool
-# Laatste update: 2026-09-30
+# Laatste update: 2026-10-14
 # Meer informatie: https://iabtechlab.com/ads-txt/
 
 OWNERDOMAIN=website.nl
@@ -131,3 +131,7 @@ seedtag.com, TODO_SEEDTAG_ID, DIRECT
 rubiconproject.com, 16114, RESELLER, 0bfd66d529a55807
 pubmatic.com, 157743, DIRECT, 5d62403b186f2ace
 improvedigital.com, 1680, DIRECT
+
+# OpenX
+# Contact: publishersupport@openx.com
+openx.com, TODO_OPENX_UNIT, DIRECT, 6a698e2ec38604c6
